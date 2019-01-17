@@ -1,5 +1,6 @@
 # FSU IAQF 2019
 This is the github page for FSU's IAQF 2019 team, "Unconquered."
+The team is mentored by Dr. Arash Fahim of Florida State University.
 
 ## Team Members
 - Daniel Gonzalez -- Captain
@@ -8,5 +9,3 @@ This is the github page for FSU's IAQF 2019 team, "Unconquered."
 - Brad Mostowski
 - Zezhong Zhang
 - Yijia Zhou
-
-Dr. Arash Fahim -- Faculty Mentor
