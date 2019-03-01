@@ -1,6 +1,6 @@
 # FSU IAQF 2019
-This is the github page for FSU Financial Math's IAQF 2019 team, "Unconquered."
-The team is mentored by Dr. Arash Fahim.
+This is the github page for FSU Financial Math's IAQF 2019 team.
+The team's faculty sponsor is Dr. Arash Fahim.
 
 ## Team Members
 - Daniel Gonzalez -- Captain
