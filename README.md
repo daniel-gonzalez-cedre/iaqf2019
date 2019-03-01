@@ -8,4 +8,3 @@ This is the repository for FSU Financial Math's IAQF 2019 team.
 - Brad Mostowski
 - Zezhong Zhang
 - Yijia Zhou
-- Dr. Arash Fahim -- Faculty Sponsor
