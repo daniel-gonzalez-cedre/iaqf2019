@@ -1,8 +1,0 @@
-Some notes on the ARIMA:
-
-The SAS file contains the code used to determine the ARIMA parameters p-AR order, d-differencing order, and q-MA order
-The Python (Python 3) notebook file contains the code used to fit the model and make predictions.
--The progrom begins with fitting the model on all but the last 1000 elements of the series.
--Each iteration the one step ahead prediction is computed and the next element of the series is added to the training set.
--The run time is quite long (~30 mins) due to the model being refit each iteration, however the RMSE is pretty good.
--Plots show the predicted values vs true values of the test set, and error for each element of the series.
