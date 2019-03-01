@@ -1,6 +1,5 @@
 # FSU IAQF 2019
-This is the github page for FSU Financial Math's IAQF 2019 team.
-The team's faculty sponsor is Dr. Arash Fahim.
+This is the repository for FSU Financial Math's IAQF 2019 team.
 
 ## Team Members
 - Daniel Gonzalez -- Captain
@@ -9,3 +8,4 @@ The team's faculty sponsor is Dr. Arash Fahim.
 - Brad Mostowski
 - Zezhong Zhang
 - Yijia Zhou
+- Dr. Arash Fahim -- Faculty Sponsor
